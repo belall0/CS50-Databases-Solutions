@@ -1,0 +1,4 @@
+-- GET ALL EPISODES LISTED IN 2022
+SELECT *
+FROM "episodes"
+WHERE "air_date" >= '2022-01-01';
