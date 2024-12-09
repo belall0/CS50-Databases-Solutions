@@ -1,16 +1,31 @@
-# CS50's Introduction to Databases with SQL 🎓
+# CS50: Introduction to Databases with SQL - Problem Sets
 
-**CS50's Introduction to Databases with SQL** is a comprehensive course that introduces the fundamental concepts of databases and SQL (Structured Query Language). Designed for beginners, the course covers:
+This repository contains my solutions to the problem sets from [**CS50's Introduction to Databases with SQL**](https://cs50.harvard.edu/sql/2024/) by Harvard University. The course dives into fundamental database concepts, focusing on how to effectively store, retrieve, and manage data using SQL.
 
-- **Querying**: Learn how to retrieve, filter, and aggregate data using basic and advanced SQL queries.
-- **Relating**: Understand how to create relationships between tables through foreign keys and join operations.
-- **Designing**: Master database schema design principles, normalization, and data integrity to structure efficient databases.
-- **Writing**: Manipulate data using `INSERT`, `UPDATE`, and `DELETE` commands to maintain and update databases.
-- **Viewing**: Use SQL views to simplify complex queries and present data in a more meaningful way.
-- **Optimizing**: Improve database performance through indexing, query optimization, and efficient query design.
-- **Scaling**: Explore techniques for scaling databases, handling large datasets, and ensuring database performance in real-world applications.
+## 📂 [Problem Sets](https://cs50.harvard.edu/sql/2024/psets/)
 
-## Technologies Used 🛠️
+| Problem Set   | Topic      | Description                                                                                        |
+| ------------- | ---------- | -------------------------------------------------------------------------------------------------- |
+| Problem Set 0 | Querying   | Write SQL queries to retrieve data from a single table.                                            |
+| Problem Set 1 | Relating   | Write SQL queries to retrieve data from multiple tables.                                           |
+| Problem Set 2 | Designing  | Design an ER diagram and Implement a database schema.                                              |
+| Problem Set 3 | Writing    | Write SQL queries to insert, update, and delete data.                                              |
+| Problem Set 4 | Viewing    | Write SQL queries to simplify complex queries using views.                                         |
+| Problem Set 5 | Optimizing | Wirte SQL Indexes, Transactions, and Triggers to optimize database performance.                    |
+| Problem Set 6 | Scaling    | Dealing with MySQL, PostgreSQL, and other concepts such as stored procedures, replication and more |
 
-- **SQL**: Structured Query Language for querying and managing databases.
-- **SQLite**: A lightweight, serverless, and self-contained SQL database engine used during the course.
+## 🏆 Learning Outcomes
+
+- **SQL Basics**: Understand the basic concepts of SQL, including database design, data manipulation, and data retrieval.
+- **Database Design**: Learn how to design a database schema, including tables, columns, and relationships.
+- **Data Manipulation**: Learn how to insert, update, and delete data in a database using SQL.
+- **Data Retrieval**: Learn how to retrieve data from a database using SQL queries.
+- **Database Optimization**: Learn how to optimize database performance using indexes, transactions, and triggers.
+- **Database Scaling**: Learn how to scale a database using MySQL, PostgreSQL, and other concepts.
+
+## 🚀 Tools Used
+
+- **SQL**: Structured Query Language (SQL) is a standard language for storing, manipulating, and retrieving data in databases.
+- **MySQL**: MySQL is an open-source relational database management system (RDBMS) that uses SQL.
+- **PostgreSQL**: PostgreSQL is an open-source object-relational database management system (ORDBMS) that uses SQL.
+- **SQLite**: SQLite is an open-source relational database management system (RDBMS) that uses SQL.
