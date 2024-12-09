@@ -4,15 +4,15 @@ This repository contains my solutions to the problem sets from [**CS50's Introdu
 
 ## 📂 [Problem Sets](https://cs50.harvard.edu/sql/2024/psets/)
 
-| Problem Set   | Topic      | Description                                                                                        |
-| ------------- | ---------- | -------------------------------------------------------------------------------------------------- |
-| Problem Set 0 | Querying   | Write SQL queries to retrieve data from a single table.                                            |
-| Problem Set 1 | Relating   | Write SQL queries to retrieve data from multiple tables.                                           |
-| Problem Set 2 | Designing  | Design an ER diagram and Implement a database schema.                                              |
-| Problem Set 3 | Writing    | Write SQL queries to insert, update, and delete data.                                              |
-| Problem Set 4 | Viewing    | Write SQL queries to simplify complex queries using views.                                         |
-| Problem Set 5 | Optimizing | Wirte SQL Indexes, Transactions, and Triggers to optimize database performance.                    |
-| Problem Set 6 | Scaling    | Dealing with MySQL, PostgreSQL, and other concepts such as stored procedures, replication and more |
+| Problem Set   | Topic      | Description                                                |
+| ------------- | ---------- | ---------------------------------------------------------- |
+| Problem Set 0 | Querying   | Write SQL queries to retrieve data from a single table.    |
+| Problem Set 1 | Relating   | Write SQL queries to retrieve data from multiple tables.   |
+| Problem Set 2 | Designing  | Design an ER diagram and Implement a database schema.      |
+| Problem Set 3 | Writing    | Write SQL queries to insert, update, and delete data.      |
+| Problem Set 4 | Viewing    | Write SQL queries to simplify complex queries using views. |
+| Problem Set 5 | Optimizing | Wirte SQL Indexes, Transactions, and more                  |
+| Problem Set 6 | Scaling    | Dealing with MySQL, PostgreSQL and more                    |
 
 ## 🏆 Learning Outcomes
 
